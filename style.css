@@ -1,0 +1,49 @@
+body {
+	background-color: #8EDFEEff;
+}
+.fancy-blue {
+	background-color: #8EDFEEff;
+}
+.fancy-blue-txt {
+	color: #8EDFEEff;
+}
+.fancy-magenta {
+	background-color: #FF3E93ff;
+}
+.fancy-magenta-txt {
+	color: #FF3E93ff;
+}
+.fancy-apricot {
+	background-color: #FCE8C8ff;
+}
+.fancy-apricot-txt {
+ 	color: #FCE8C8ff;
+}
+.fancy-logo {
+	width: 180px;
+	height: 75px;
+}
+.margin-t {
+	margin-top: 10px;
+}
+.margin-lr {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.margin-r {
+	margin-right: 10px;
+}
+.margin-tb {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.imgs {
+	width: 100%;
+}
+.jypbox {
+	background-color: white;
+}
+.jyp {
+	width: 100px;
+	height: 35px;
+}
